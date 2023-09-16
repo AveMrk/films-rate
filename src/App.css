@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+ul.card-body-stars {
+  display: flex;
+  list-style-type: none;
+  margin:  3rem auto;
+  width: fit-content;
+}
